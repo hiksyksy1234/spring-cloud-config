@@ -10,4 +10,4 @@ token:
   secret: new_user_token_20220525
 
 gateway:
-  ip: 172.10.0.5
+  ip: 172.18.0.5
