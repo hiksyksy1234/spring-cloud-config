@@ -1,4 +1,9 @@
 token:
   secret: access-token3
   
-
+spring:
+  datasource:
+    driver-class-name: oracle.jdbc.OralceDriver
+    url: jdbc:oracle:thin:@localhost:1521/xe
+    username: scott
+    password: tiger
