@@ -6,4 +6,4 @@ spring:
     driver-class-name: oracle.jdbc.OralceDriver
     url: jdbc:oracle:thin:@localhost:1521/xe
     username: scott
-    password: {cipher}b6afa74e30e88d89575a0dda83a66b82ad2c89612af87a8aaae091e8f49a4b11
+    password: tiger
