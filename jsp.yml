@@ -1,5 +1,5 @@
 token:
-  secret: access-token6
+  secret: access-token
   
 spring:
   datasource:
